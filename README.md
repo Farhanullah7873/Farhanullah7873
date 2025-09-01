@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Farhanullah</h1>
-<h3 align="center">A passionate full stack developer from Pakistan</h3>
+<h3 align="center">Full Stack Developer |JavaScript|Next.js| React.js|Express.js|Node.js |MongoDb</h3>
 
 - 🔭 I’m currently working on **disaster management system**
 
