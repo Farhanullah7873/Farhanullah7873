@@ -1,6 +1,6 @@
 <h1 align="center">Search 'Farhan Ullah' on the Internet or Visit my <a href="http://farhan.p2pcloud/" target="_blank">Website</a></h1>
 
-<h1 align="center">Hi 👋, I'm Farhan Ullah Ali</h1>
+<h1 align="center">Hi 👋, I'm Farhan Ullah</h1>
 
 <h3 align="center">
 A Practical Technologist & Full Stack Developer at <b>P2PClouds</b> with experience across 
