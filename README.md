@@ -36,7 +36,7 @@ Passionate about <b>AI-driven Web Apps, Smart Contracts,</b> and <b>DApps</b>.
 <h3 align="left">👩‍💻 About Me</h3>
 
 <p align="left">
-🔭 I’m working as a <b>Technical Project Manager @ P2PClouds</b> and <b>Web Instructor @ NexSkill PVT LTD</b>.<br/>
+🔭 I’m working as a <b>Full stack developer @ P2PClouds</b>
 📚 My expertise includes Web/Mobile Apps, Artificial Intelligence, AI Agents, and Decentralized Applications.<br/>
 ⚡ In my free time, I write blogs.
 </p>
