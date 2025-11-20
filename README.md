@@ -127,6 +127,40 @@ Passionate about <b>AI-driven Web Apps, Smart Contracts,</b> and <b>DApps</b>.
 </p>
 
 <br/>
+---
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<div align="center">
+
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Farhanullah7873&show_icons=true&theme=dracula" 
+    alt="GitHub Stats" 
+    height="180"
+  />
+
+  <!-- Most Used Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhanullah7873&layout=compact&theme=dracula" 
+    alt="Top Languages" 
+    height="180"
+  />
+
+</div>
+
+---
+
+<h3 align="center">🔥 Contribution Streak</h3>
+
+<div align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=Farhanullah7873&theme=dracula&hide_border=false" 
+    alt="GitHub Streak Stats"
+  />
+</div>
+
+<br/>
 
 ![Active Years](https://img.shields.io/badge/Active%20Years-2024--2025-blue?style=for-the-badge)
 
