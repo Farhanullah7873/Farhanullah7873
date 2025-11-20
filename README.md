@@ -134,7 +134,7 @@ Passionate about <b>AI-driven Web Apps, Smart Contracts,</b> and <b>DApps</b>.
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Farhanullah7873" alt="GitHub Streak Stats"/>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=farhanullah7873&date_format=j%20M%5B%20Y%5D&mode=weekly&hide_current_streak=true" alt="GitHub Streak" /></a>
 </div>
 
 <div align="center">
