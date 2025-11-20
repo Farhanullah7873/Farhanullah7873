@@ -128,14 +128,8 @@ Passionate about <b>AI-driven Web Apps, Smart Contracts,</b> and <b>DApps</b>.
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Farhanullah7873&theme=dracula&show_icons=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Farhanullah7873&layout=compact&theme=dracula" height="150"/>
-</div>
+![Active Years](https://img.shields.io/badge/Active%20Years-2024--2025-blue?style=for-the-badge)
 
-<div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=farhanullah7873&date_format=j%20M%5B%20Y%5D&mode=weekly&hide_current_streak=true" alt="GitHub Streak" /></a>
-</div>
 
 <div align="center">
   <a href="https://www.buymeacoffee.com/Farhanullah7873" target="_blank">
